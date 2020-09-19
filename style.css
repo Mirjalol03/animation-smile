@@ -74,6 +74,8 @@ body {
     margin-left:60px;
 }
 
-@media (orientation: portrait){
-    
+@media all and (max-width: 500px){
+    body{
+        
+}
 }

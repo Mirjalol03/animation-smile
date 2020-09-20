@@ -8,8 +8,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #5d3800;
-Displey: inline-block;
+    background: #ccc;
 }
 .face {
     position: relative;

@@ -9,7 +9,7 @@ body {
     align-items: center;
     min-height: 100vh;
     background: #5d3800;
-Displey: block;
+Displey: inline-block;
 }
 .face {
     position: relative;

@@ -8,7 +8,8 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: red;
+    background: #5d3800;
+}
 .face {
     position: relative;
     width: 300px;
@@ -63,15 +64,3 @@ body {
     background: #333;
     border-radius: 50%;
 }
-
-#main-footer{
-    text-align: center;
-    background-color: #000;
-    color:#ccc;
-    margin: 10px;
-    top:80px;
-    margin-left:60px;
-}
-
-
-
